@@ -1,0 +1,7 @@
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe.config
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.csprojResolveAssemblyReference.cache
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.csproj.CoreCompileInputs.cache
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.exe
+D:\Proyectos\asp\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.pdb
